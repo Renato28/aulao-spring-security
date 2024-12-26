@@ -1,7 +1,7 @@
 package io.github.renatonobrega.aulao_spring_security.security;
 
+import io.github.renatonobrega.aulao_spring_security.model.User;
 import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
